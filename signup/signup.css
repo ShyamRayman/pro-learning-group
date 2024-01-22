@@ -1,0 +1,23 @@
+.bdr {
+  border: 2px solid black;
+}
+.signup {
+  font-family: "Udemy Sans", "apple-system", "BlinkMacSystemFont", "Roboto",
+    "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: bold;
+}
+.signup-btn {
+  background-color: #a435f0;
+  color: white;
+  font-weight: bold;
+}
+.fontsize {
+  font-size: smaller;
+}
+.f-size {
+  font-size: 14px;
+}
+.clr {
+  color: #a435f0;
+}
