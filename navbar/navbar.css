@@ -1,0 +1,91 @@
+li{
+    list-style-type: none;
+}
+.udemylogo{
+    height: 35px;
+    width: 140px;
+}
+.navbar-nav{
+    position: relative;
+    
+}
+.navbar-nav .submenu{
+    display: none;
+}
+.navbar-nav :hover>.submenu{
+    position: absolute;
+    background-color: black;
+    display: flex;
+    width: 100%;
+    left:0;
+    align-items: center;
+    justify-content: center;
+}
+.submenu a{
+    color: white;
+}
+
+.submenu :hover a{
+    color:#8072e6;
+}
+
+.navbar-nav .firstsubmenu{
+    display: none;
+}
+.navbar-nav:hover .firstsubmenu{
+    display: block;
+    position: absolute;
+}
+.navbar-nav :hover .dropdown-menu{
+    display: block;
+}
+
+
+
+.dropdown-menu{
+    position:absolute;
+    bottom:1rem;
+    z-index: 1;
+}
+
+.navbaroverallheader{
+    font-size: 0.9rem;
+    /* background-color: #DC8686; */
+    background-color: #80BCBD;
+}
+
+.content-card{
+    font-family: 'Poppins', sans-serif;
+}
+
+.content-card-color{
+    /* background-color: #DC8686; */
+    background-color: #80BCBD;
+}
+
+
+.input-box{
+    border-radius: 18px;
+    border: none;
+    outline: none;
+    width:350px;
+    height: 40px;
+    
+    margin-left: 30px;
+}
+
+.input-box1{
+    border:none;
+    outline:none;
+    background-color: transparent;
+    padding: 10px;
+    padding-left: 15px;
+    width:290px;
+}
+
+.input-box2{
+    padding-left: 8px;
+    font-size: 25px;
+    margin-left: 20px;
+    opacity: 0.7;
+}
