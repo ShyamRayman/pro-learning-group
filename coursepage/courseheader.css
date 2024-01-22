@@ -1,0 +1,37 @@
+.headerLinka{
+    text-decoration: none;
+    color: #AC87C5;
+}
+
+.headerLink{
+    font-weight: 800;
+    font-size:14px;
+}
+
+.courseheadermain{
+    background-color: #2D2F31;
+    height:60vh;
+    width:100vw;
+}
+
+.courseheadercontent{
+    line-height: 2.5;
+}
+
+.btn-color1{
+    background-color: #eceb98;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 0;
+}
+
+.course-card{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .videoover{
+    position:absolute;
+    top:100px;
+    left: 770px;
+    z-index:0;
+} */

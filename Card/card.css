@@ -1,0 +1,85 @@
+.main-card{
+    width:18rem;
+    height:50%;
+    font-size:1rem;
+}
+
+.para-card {
+    color:grey;
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.rating-star{
+    font-size: 0.8rem;
+    color:#ea960a   
+}
+
+.btn-color__{
+    background-color: #80BCBD;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 0;
+    
+}
+
+.bodyCard{
+    font-size: 0.8rem;
+    line-height: 1;
+}
+
+.link-anchor{
+    color:black;
+    text-decoration: none;
+}
+
+.slider-left{
+    font-size: 2.5rem;
+    background-color: rgb(44, 40, 40);
+    color:white;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top:28%;
+    opacity: 0.9;
+}
+
+.slider-right{
+    font-size: 2.5rem;
+    background-color: rgb(44, 40, 40);
+    color:white;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 2;
+    top:28%;
+    right:0%;
+    opacity: 0.9;
+}
+
+.card-title{
+    font-size: 0.8rem;
+}
+
+.hr-dark{
+    height:1px;
+    width:100%;
+    background-color:black;
+    opacity: 0.2;
+    border-radius: 15px;
+}
+
+.courseinf{
+    font-size: 1.3rem;
+}
+
+.homebutton{
+    border-radius: 8px;
+    border:none;
+    outline: none;
+    width:100px;
+    background-color: #A435F0;
+}
+
+.content-card{
+    font-family: 'Poppins', sans-serif;
+}
