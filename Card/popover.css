@@ -1,0 +1,62 @@
+.tooltipcard{
+    height:70vh;
+    width:27vw;
+    background-color: white;
+    transform: translateY(-30px);
+    opacity: none;
+    padding: 0.9rem;
+    font-size: 12px;
+}
+
+.buttonToolTip{
+    padding: 8px;
+    width:15rem;
+    border:none;
+    outline: none;
+    background-color: #9400FF;
+    color:White;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.heartemoji{
+    position: relative;
+    top:6px;
+    LEFT:10px;
+    padding: 2px;
+    opacity: 0.6;
+}
+
+.tooltipbutton{
+    text-align: center;
+
+}
+
+.imgReview{
+    width:100px;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+
+.topReview{
+    /* height: 150px; */
+    width:300px;
+    /* box-shadow: 1px -1px 3px grey; */
+    border-radius: 10px;
+
+}
+
+.contentReview{
+    padding-top: 25px;
+    line-height: 0.7;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.reviewLineHeight{
+    line-height: 1;
+}
+
+
+
