@@ -1,0 +1,38 @@
+    .FooterTopButton{
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .FooterTopButton:hover .ButtonTitle{
+        background: dark ;
+        opacity: 0.9;
+    }
+    
+    .ButtonTitle{
+        z-index: 1;
+        display: inline;
+    
+    }
+    
+    .FooterbottomImg{
+        
+        width: 100px;
+    }
+    
+    .LanguageCol1{
+        height: 50vh;
+        width: 50vw;
+        background-color: beige;
+    }
+    
+    
+    
+    
+    .footerA1:hover,.footerA2:hover,.footerA3:hover,.footerA4:hover,.footerA5:hover,.footerA6:hover,.footerA7:hover,.footerA8:hover,.footerA9:hover,.footerA10:hover,.footerA11:hover,.footerA12:hover,.footerA13:hover,.footerA14:hover,.footerA15:hover{
+        text-decoration: underline;
+        
+    }
+    
+    .footerA1,.footerA2,.footerA3,.footerA4,.footerA5,.footerA6,.footerA7,.footerA8,.footerA9,.footerA10,.footerA11,.footerA12,.footerA13,.footerA14,.footerA15{
+        text-decoration: none;
+    }
+    
