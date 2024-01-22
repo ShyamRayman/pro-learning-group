@@ -1,0 +1,28 @@
+.divSize{
+    height: 26vh;
+    width: 30vw;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.bg-flash{
+    background-image: url("https://img-c.udemycdn.com/notices/featured_carousel_slide/image/5bf6274c-4a57-42ce-93d6-9775b06730be.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+}
+.bg-time{
+    background-image: url("https://img-c.udemycdn.com/notices/web_carousel_slide/image/85fc789b-2f21-4b23-8629-84cd41147f57.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+}
+.bg-learn{
+    background-image: url("https://img-c.udemycdn.com/notices/featured_carousel_slide/image/487fb3b7-4b6e-4c2f-a3fe-67eb51016502.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+}
+
+.contentcard{
+    font-family: 'Poppins', sans-serif;
+}
